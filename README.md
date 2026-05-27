@@ -1,0 +1,1 @@
+This remote repository is a temporary repository for Git/GitHub practice in the Spring 2026 Cloud Services course.
